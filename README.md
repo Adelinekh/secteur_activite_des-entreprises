@@ -15,4 +15,4 @@ Savoir créer des visualisations pour explorer les données et les afficher de m
 Savoir utiliser les filtres et les slicers pour affiner les données en fonction de différents critères.
 
 ## En bonus
-Vous utiliserez Alteryx pour extraire, transformer et charger les données des entreprises dans Teradata.
+Si j'ai le temps, j'utiliserais Alteryx pour extraire, transformer et charger les données des entreprises dans Teradata.
